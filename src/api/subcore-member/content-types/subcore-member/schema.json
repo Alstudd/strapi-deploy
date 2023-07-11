@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "subcore_members",
+  "info": {
+    "singularName": "subcore-member",
+    "pluralName": "subcore-members",
+    "displayName": "Subcore-Member"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "designation": {
+      "type": "string"
+    },
+    "branch": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    }
+  }
+}

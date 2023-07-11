@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "core_members",
+  "info": {
+    "singularName": "core-member",
+    "pluralName": "core-members",
+    "displayName": "Core-Member"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "designation": {
+      "type": "string"
+    },
+    "branch": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    }
+  }
+}

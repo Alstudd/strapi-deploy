@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "past_events",
+  "info": {
+    "singularName": "past-event",
+    "pluralName": "past-events",
+    "displayName": "Past-Event"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "startTime": {
+      "type": "string"
+    },
+    "endTime": {
+      "type": "string"
+    },
+    "contestLink": {
+      "type": "string"
+    },
+    "leaderboard": {
+      "type": "string"
+    },
+    "editorials": {
+      "type": "json"
+    }
+  }
+}
