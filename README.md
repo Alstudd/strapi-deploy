@@ -1,3 +1,8 @@
+Live at [WebLink](https://alston-shastra-apis.onrender.com/)
+[Events API](https://alston-shastra-apis.onrender.com/api/past-events)
+[CoreTeam API](https://alston-shastra-apis.onrender.com/api/core-members) 
+[SubCoreTeam API](https://alston-shastra-apis.onrender.com/api/subcore-members)
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
